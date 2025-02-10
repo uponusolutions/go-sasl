@@ -1,3 +1,3 @@
-module github.com/emersion/go-sasl
+module github.com/uponusolutions/go-sasl
 
-go 1.12
+go 1.23.5
